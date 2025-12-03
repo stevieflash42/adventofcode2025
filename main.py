@@ -1,3 +1,4 @@
 """Entry point module=main.py"""
 
-import Day1.run
+# import Day1.part1
+import Day1.part2

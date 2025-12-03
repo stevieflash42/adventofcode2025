@@ -13,4 +13,5 @@ disable=
     missing-docstring,
     missing-module-docstring,
     missing-function-docstring,
-    unused-import
+    unused-import,
+    invalid-name

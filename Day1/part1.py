@@ -1,5 +1,5 @@
 
-print("Running Day 1 solution...")
+print("Running Day1.Part1...")
 
 from enum import Enum
 import os
